@@ -1,1 +1,3 @@
+Start up the run.py file. The scaling_by_ratio just stores the class for use.
+
 Needed to figure out how to scale a ton of graphics to cover the same area with respect to their original dimensions so I created this little guy. All you have to do is enter the area you would like to cover, then the width, then the height and it will spit out the new width and height you can use for the object! The program will continue to loop and loop till you type 'done' at the end and there currently isn't any way of handling errors, but that will be built in later.
